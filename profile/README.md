@@ -5,11 +5,6 @@
   <p>
     At SeekFound we build modern systems, infrastructure, and hardware solutions. From idea to production — fast, scalable, and reliable.
   </p>
-
-  <p>
-    <a href="https://seekfound.dev">🌐 Visit our website</a>
-  </p>
-
 </div>
 
 ## 🚀 Who We Are
@@ -52,10 +47,4 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/CI%2FCD-4EAA25?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/3D_Printing-FF9900?style=for-the-badge&logo=blender&logoColor=white" alt="3D Printing" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/seekfound-square.png" alt="SeekFound Icon" width="120" />
 </div>

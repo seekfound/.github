@@ -2,14 +2,12 @@
   
   <img src="assets/seekfound-full.png" alt="SeekFound Full Logo" width="600" />
 
-  <h4>SEARCH . SOLVE . SHIP .</h4>
-
   <p>
     At SeekFound we build modern systems, infrastructure, and hardware solutions. From idea to production — fast, scalable, and reliable.
   </p>
 
   <p>
-    <a href="https://seekfound.dev">🌐 Website</a>
+    <a href="https://seekfound.dev">🌐 Visit our website</a>
   </p>
 
 </div>

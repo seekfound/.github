@@ -5,7 +5,11 @@
   <h4>SEARCH . SOLVE . SHIP .</h4>
 
   <p>
-    We build modern systems, infrastructure, and hardware solutions. From idea to production — fast, scalable, and reliable.
+    At SeekFound we build modern systems, infrastructure, and hardware solutions. From idea to production — fast, scalable, and reliable.
+  </p>
+
+  <p>
+    <a href="https://seekfound.dev">🌐 Website</a>
   </p>
 
 </div>
